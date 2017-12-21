@@ -60,4 +60,4 @@ for video in os.listdir(config["input_folder"]):
 	print(video + " has completed")
 
 print("\nAll done!")
-input("Press any key to exit...")
+input("Press ENTER key to exit...")
