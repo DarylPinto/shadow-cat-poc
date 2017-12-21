@@ -36,6 +36,10 @@ for video in os.listdir(config["input_folder"]):
 
 	sleep(1)
 
+	#Skip if compressed video does not exist
+	if(not os.path.isfile(output_path)):
+		continue
+
 	#Upload to Streamable
 	print("Uploading to Streamable...")
 
