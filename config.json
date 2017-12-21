@@ -1,0 +1,10 @@
+{
+	"username": "",
+	"password": "",
+	"input_folder": "",
+	"output_folder": "",
+	"quality": 28,
+	"resolution": 720,
+	"delete_original_video": true,
+	"delete_compressed_video": false
+}
