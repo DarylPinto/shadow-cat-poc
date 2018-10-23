@@ -1,4 +1,4 @@
-# Shadow Cat
+# Shadow Cat (Proof of Concept)
 
 > A simple script for getting ShadowPlays online quickly
 
